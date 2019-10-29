@@ -1,0 +1,11 @@
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\bootstrap\BeerLoader.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\MsscBeerServiceApplication.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\web\mappers\BeerMapper.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\domain\Beer.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\web\model\BeerDto.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\web\model\BeerPagedList.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\web\controller\BeerController.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\web\model\BeerStyleEnum.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\repositories\BeerRepository.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\web\controller\MvcExceptionHandler.java
+E:\Java\Mikroservisy\mssc-beer-service\src\main\java\com\mkraskiewicz\msscbeerservice\web\mappers\DateMapper.java
